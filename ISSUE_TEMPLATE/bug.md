@@ -10,7 +10,7 @@
 ## Expected Behavior
 [Indicate what should happen]
 
-## Current Behavior
+## Actual Behavior
 [Indicate what is happening instead of the expected behavior]
 
 ## Repro Steps
