@@ -1,5 +1,6 @@
 # solucionando
 
+
 ## Overview
  - **Client:** 
  - **Project:** 
@@ -32,3 +33,7 @@
 | Release 2 | 
 | Release 3 |
 
+
+## Quick Links
+ - [Create new epic](/issues/new?template=epic.md)
+ - [File a bug]()
