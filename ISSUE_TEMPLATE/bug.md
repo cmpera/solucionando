@@ -1,12 +1,6 @@
 ## Issue Overview
 [brief description of the bug]
 
-## Severity
-[delete non-applicable]
- - P1
- - P2
- - P3
-
 ## Expected Behavior
 [Indicate what should happen]
 
